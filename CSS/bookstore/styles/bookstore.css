@@ -1,0 +1,22 @@
+section {
+    border:2px solid green;
+    padding:5px;
+    margin-bottom:5px;
+    color:red;/* Unclear on what this does */
+}
+
+.onSale {
+    background-color:yellow /* Looks like  */
+}
+
+#bookofthemonth {
+    background-color:red
+}
+
+h1 {
+    color:blue;
+     font-family:Helvetica;
+ }
+ p {
+     color:black;
+ }
